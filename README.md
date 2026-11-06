@@ -4,7 +4,7 @@
 
 I work where ecology, software and the people in the field meet. I know how camera-trap surveys are run, what researchers need from their data, and what it takes to ship software that works offline on a field laptop. That domain knowledge drives the engineering: I decide what to build, spot when the data doesn't add up, and see it through to release.
 
-My background runs from biochemistry (BSc Hons) to biomedical engineering: an MEngSc, cum laude, from Stellenbosch University, where my [thesis](https://scholar.sun.ac.za/handle/10019.1/129109) used computer vision to read a glowing bacterium as a field toxicity test for soil and water. I've also worked in environmental engineering and technical support. In software, I started out writing R and Python by hand: Shiny modules, data importers and exporters, and converters between survey formats. Today I lead a small development team and the ML inference services and data platforms behind a wildlife-conservation programme, and I use AI coding agents to ship faster. My free time goes to the side projects below.
+My background runs from biochemistry (BSc Hons) to biomedical engineering: an MEngSc, cum laude, from Stellenbosch University, where my [thesis](https://scholar.sun.ac.za/handle/10019.1/129109) used computer vision to read a glowing bacterium as a field toxicity test for soil and water. The code behind it, from the light-sensor firmware to the image pipeline, is in [msc-bioluminescence-toolkit](https://github.com/IAParkerManx/msc-bioluminescence-toolkit). I've also worked in environmental engineering and technical support. In software, I started out writing R and Python by hand: Shiny modules, data importers and exporters, and converters between survey formats. Today I lead a small development team and the ML inference services and data platforms behind a wildlife-conservation programme, and I use AI coding agents to ship faster. Outside work I'm a car person and a hardware tinkerer, so a lot of my free time goes to the side projects below.
 
 <p align="center"><img src="career-path.svg" width="100%" alt="Animated career path: a glowing Aliivibrio bacterium hops from biochemistry to biomedical engineering, environmental engineering, support and conservation tech, where it becomes a leopard's spot."></p>
 
@@ -31,11 +31,26 @@ My background runs from biochemistry (BSc Hons) to biomedical engineering: an ME
 
 | Project | What it does | Built with |
 | --- | --- | --- |
+| **[msc-bioluminescence-toolkit](https://github.com/IAParkerManx/msc-bioluminescence-toolkit)** | My MEngSc research code, written by hand in 2022–23. Arduino firmware compares four light sensors, a Raspberry Pi camera images the test plates, and an OpenCV/SSIM pipeline measures how a toxin dims the bacteria over time. | C++ (Arduino) · Python · OpenCV · scikit-image |
 | **[mcp-forge](https://github.com/IAParkerManx/mcp-forge)** | Turns an API, a CLI, a website or an Electron/Tauri app into a tested MCP server that AI agents can call. | TypeScript · Node.js · MCP |
 | **[claude-usage-widget](https://github.com/IAParkerManx/claude-usage-widget)** | A native macOS menu bar app that shows how much of your Claude plan limits is left. | Swift · SwiftUI |
 | **[daily-task-manager](https://github.com/IAParkerManx/daily-task-manager)** | A full-stack task manager with priorities, filters and a stats dashboard. | React · Express · SQLite |
-| **ZERO·21** *(private)* | Anonymous car meets for verified cars only, built privacy-first under POPIA (South Africa's data-protection law). | React Native · Next.js · Convex |
 | **Murder Mystery Generator** *(private)* | An AI app that writes complete murder-mystery games for parties. | Next.js · Prisma · LLMs |
+| **CardLink** *(private)* | An Android business card you swap by NFC tap or a signed, short-lived QR code, with Google Wallet passes. | Kotlin · Jetpack Compose |
+
+### Off the clock
+
+Most of my side projects start with a problem in the garage or on the water.
+
+**Cars.** Performance timing, CAN bus retrofits and the car-meet scene.
+
+- **[raceps](https://github.com/IAParkerManx/raceps):** a phone web app that times performance runs (0–100, rolling 60–100, quarter mile) from GPS and motion sensors, or from a Dragy timer over Web Bluetooth with a decoder for its binary GPS frames. It works offline, calls out splits by voice and has unit tests for its core logic.
+- **[mqb-steering-wheel-can](https://github.com/IAParkerManx/mqb-steering-wheel-can):** firmware that sits on a VW MQB chassis CAN bus and translates button and paddle-shift frames so a retrofitted steering wheel works with the car.
+- **ZERO·21** *(private)*: anonymous car meets for verified cars only, built privacy-first under POPIA (South Africa's data-protection law). React Native · Next.js · Convex.
+
+**Electronics.** I've been building with Arduino and Raspberry Pi since 2018: light sensors, OLED readouts, camera rigs and CAN bus controllers. The same habit carried into my thesis, where I compared light sensors and converted their readings to lux before writing the vision pipeline.
+
+**Fishing.** **Captain's League** *(private)* is an app for a fishing league: catch logging with photos, leaderboards, weather, marine and solunar conditions, and offline sync for when there's no signal on the water. React Native (Expo) · Supabase.
 
 ### Resume
 
@@ -65,6 +80,7 @@ At Panthera, I lead the development and support of the conservation-technology p
 ### Toolbox
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
@@ -77,8 +93,11 @@ At Panthera, I lead the development and support of the conservation-technology p
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 
-**Focus areas:** conservation technology · computer vision in production · data platforms and pipelines · AI-assisted engineering
+**Focus areas:** conservation technology · computer vision in production · data platforms and pipelines · AI-assisted engineering · embedded hardware
 
 ---
 
