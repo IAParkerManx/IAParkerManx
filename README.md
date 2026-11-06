@@ -37,6 +37,31 @@ My background runs from biochemistry (BSc Hons) to biomedical engineering: an ME
 | **ZERO·21** *(private)* | Anonymous car meets for verified cars only, built privacy-first under POPIA (South Africa's data-protection law). | React Native · Next.js · Convex |
 | **Murder Mystery Generator** *(private)* | An AI app that writes complete murder-mystery games for parties. | Next.js · Prisma · LLMs |
 
+### Resume
+
+**Experience**
+
+| Role | Organisation | Dates |
+| --- | --- | --- |
+| Software Operations & Support Coordinator | Panthera (global wild-cat conservation) · Cape Town | Dec 2023 – present |
+| Support Engineer | Boldr · Cape Town | May – Dec 2023 |
+| Technical Consultant | systeme.io | Jan 2021 – Mar 2022 |
+| Environmental Engineer | Churchill · Cape Town | Jan 2020 – Aug 2022 |
+| Onsite Manager | Howler · Cape Town | Jan 2018 – Aug 2022 |
+
+At Panthera, I lead the development and support of the conservation-technology platform that field teams use to process camera-trap data. That covers the ML classifier and analytics services, CI/CD and releases, a small team of in-house developers, contractors and an intern, and partner training across Africa, Latin America and Asia. Previous titles: Conservation Support Coordinator, then Support Engineer Coordinator.
+
+**Education**
+
+| Qualification | Institution | Years |
+| --- | --- | --- |
+| MEngSc, Biomedical Engineering, *cum laude*. Thesis: a computer-vision pipeline for *Aliivibrio* | Stellenbosch University | 2022 – 2024 |
+| BSc Honours, Biochemistry | Stellenbosch University | 2021 |
+| BSc | Stellenbosch University | 2017 – 2020 |
+| Summer School, Hydrology and Water Resources Science | University of the Free State | 2022 |
+
+**Also:** ICTC 2026 programme committee · WILDLABS proposal reviewer · Organisation-wide AI Task Force member · BeWell Mentor · Health & Safety Representative · English (native), Afrikaans (professional)
+
 ### Toolbox
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
