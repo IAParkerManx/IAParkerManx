@@ -1,26 +1,45 @@
-# Irshaad Parker
+## Hi, I'm Irshaad 👋
 
-**Applied ML & Platform Engineer** · South Africa
+**Applied ML & Platform Engineer** · South Africa 🇿🇦
 
-I take computer-vision models from research to production and keep them running for real users. At work I build and run ML inference services and data platforms: Python/FastAPI, R/Shiny, ONNX, Docker, AWS, Terraform and CI/CD. Below are my personal projects.
+I take computer-vision models out of notebooks and into production, then keep them running for people in the field who rely on them. My day job is building ML inference services and data platforms for wildlife conservation. My free time goes to the side projects below.
 
-## Projects
+### What I've shipped at work
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [mcp-forge](https://github.com/IAParkerManx/mcp-forge) | Turns an HTTP API, a CLI tool, a website (from a HAR file) or an Electron/Tauri app into an MCP server that AI agents can call. It infers schemas from real responses, leaves write tools off by default, and tests every generated server against its live target. | Node.js, TypeScript, MCP, GitHub Actions |
-| ZERO·21 (private) | An app for anonymous car meets where every car's number plate is verified. Meet locations are shown only to verified RSVPs, and plate data is handled under POPIA (South Africa's data-protection law). | Expo / React Native, Expo Router, Next.js admin, Convex, Google Maps |
-| [Claude Usage Widget](https://github.com/IAParkerManx/claude-usage-widget) | A native macOS menu bar app that shows how much of your Claude plan limits are left, fed by Claude Code's status line. | Swift, SwiftUI, Cocoa |
-| [Daily Task Manager](https://github.com/IAParkerManx/daily-task-manager) | A full-stack task manager with priorities, categories, due-date filters and a stats dashboard. | React, TypeScript, Vite, Express, SQLite (`node:sqlite`) |
-| Murder Mystery Generator (private) | An AI web app that writes full murder-mystery scenarios for parties and tabletop games. | Next.js, Express, Prisma, Claude / Gemini, Docker |
+- 🐆 **Camera-trap AI engine:** I built a detection and species-classification service from scratch. It runs 7 model families on CUDA, Intel and Apple Silicon.
+- ⚡ **Faster inference:** I moved inference to ONNX with an overlapped pipeline, which made the default detector **16.6x faster**.
+- 🔎 **Zero-shot search:** I added BioCLIP zero-shot classification, growing the species list from **40 to 763**, plus natural-language image search.
+- 🚢 **Releases:** **18 versioned releases**, with automated changelogs, commit linting and coverage-gated CI.
+- 🌍 **A platform in daily use:** R/Shiny, Docker, AWS ECS and Terraform, translated into 5 languages for field teams on three continents.
 
-## Skills
+### Projects
 
-- **ML and computer vision:** object detection and species classification, zero-shot models (BioCLIP), ONNX Runtime, OpenVINO, CUDA
-- **Backend and apps:** Python, FastAPI, R, Shiny, TypeScript, React, Next.js, React Native, Swift
-- **Platform:** Docker (multi-arch), AWS (ECS, S3, Redshift, Batch), Terraform, GitHub Actions, semantic releases
-- **AI-assisted engineering:** Claude Code skills and agent workflows, MCP servers, LLM applications
+| | Project | What it does | Built with |
+| --- | --- | --- | --- |
+| 🔧 | **[mcp-forge](https://github.com/IAParkerManx/mcp-forge)** | Turns an API, a CLI, a website or an Electron/Tauri app into a tested MCP server that AI agents can call. | TypeScript · Node.js · MCP |
+| 📊 | **[claude-usage-widget](https://github.com/IAParkerManx/claude-usage-widget)** | A native macOS menu bar app that shows how much of your Claude plan limits is left. | Swift · SwiftUI |
+| ✅ | **[daily-task-manager](https://github.com/IAParkerManx/daily-task-manager)** | A full-stack task manager with priorities, filters and a stats dashboard. | React · Express · SQLite |
+| 🚗 | **ZERO·21** *(private)* | Anonymous car meets for verified cars only, built privacy-first under POPIA (South Africa's data-protection law). | React Native · Next.js · Convex |
+| 🔍 | **Murder Mystery Generator** *(private)* | An AI app that writes complete murder-mystery games for parties. | Next.js · Prisma · LLMs |
 
-## Contact
+### Toolbox
 
-<!-- Add your email, LinkedIn and location here -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+
+**Focus areas:** computer vision · MLOps and inference speed · cloud platforms · AI-assisted engineering (agents, MCP, LLM apps)
+
+---
+
+💼 Open to Applied ML and Platform Engineering roles.
