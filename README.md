@@ -17,10 +17,12 @@ I started out writing R and Python by hand: Shiny modules, data importers and ex
 
 ### Leading the team
 
-- Coordinate a team of in-house and external developers and data staff. I scope and assign the work: 70+ work items across 11 people since 2024.
+- Lead a small development and support team (direct reports, an intern, and contractors from three firms). I scope and assign the work: 70+ work items across 11 people since 2024.
 - Run a consultative delivery process. The testing and release workflow changes when the team says it isn't working.
 - Advocate for the people I work with, including making the case for a teammate's promotion.
 - Build capability through hands-on AI training sessions, training material and shared security guidance.
+- Train field partners internationally: lead trainer for an in-person workshop for teams from three Central American countries, and designer of a bilingual 4-day course for Southeast Asian partners.
+- Serve the conservation-tech community as an ICTC 2026 programme committee member and a WILDLABS proposal reviewer.
 
 ### Projects
 
