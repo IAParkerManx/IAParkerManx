@@ -2,12 +2,12 @@
 
 **Applied ML & Platform Engineer** · South Africa
 
-I take computer-vision models out of notebooks and into production, then keep them running for people in the field who rely on them. My day job is building ML inference services and data platforms for wildlife conservation. My free time goes to the side projects below.
+I take computer-vision models out of notebooks and into production, then keep them running for people in the field who rely on them. My day job is leading ML inference services and data platforms for wildlife conservation, working with AI coding agents throughout. My free time goes to the side projects below.
 
 ### Selected work
 
-- **Camera-trap AI engine:** I built a detection and species-classification service from scratch. It runs 7 model families on CUDA, Intel and Apple Silicon.
-- **Faster inference:** I moved inference to ONNX with an overlapped pipeline, which made the default detector **16.6x faster**.
+- **Camera-trap AI engine:** I initiated and lead a detection and species-classification service. It runs 7 model families on CUDA, Intel and Apple Silicon.
+- **Faster inference:** I cut default detection time **16.6x** by switching to a lighter detector with hardware acceleration, and added ONNX inference paths.
 - **Zero-shot search:** I added BioCLIP zero-shot classification, growing the species list from **40 to 763**, plus natural-language image search.
 - **Releases:** **18 versioned releases**, with automated changelogs, commit linting and coverage-gated CI.
 - **A platform in daily use:** R/Shiny, Docker, AWS ECS and Terraform, translated into 5 languages for field teams on three continents.
