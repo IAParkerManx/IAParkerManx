@@ -6,6 +6,8 @@ I work where ecology, software and the people in the field meet. I know how came
 
 My background runs from biochemistry (BSc Hons) to biomedical engineering: an MEngSc, cum laude, from Stellenbosch University, where my thesis built a computer-vision pipeline. I've also worked in environmental engineering and technical support. In software, I started out writing R and Python by hand: Shiny modules, data importers and exporters, and converters between survey formats. Today I lead a small development team and the ML inference services and data platforms behind a wildlife-conservation programme, and I use AI coding agents to ship faster. My free time goes to the side projects below.
 
+<p align="center"><img src="career-path.svg" width="100%" alt="Animated career path: a glowing Aliivibrio bacterium hops from biochemistry to biomedical engineering, environmental engineering, support and conservation tech, where it becomes a leopard's spot."></p>
+
 ### Selected work
 
 - **Camera-trap AI engine:** I initiated and lead a detection and species-classification service. It runs 7 model families on CUDA, Intel and Apple Silicon.
