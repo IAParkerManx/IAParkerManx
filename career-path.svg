@@ -166,7 +166,7 @@
     <g opacity="0.35">
       <animate attributeName="opacity" values="0.35;0.35;1;1" keyTimes="0;0.18;0.2;1" dur="14s" repeatCount="indefinite"/>
       <text class="label" x="270" y="268">Biomedical Eng.</text>
-      <text class="years" x="270" y="284">MEngSc cum laude · 2024</text>
+      <text class="years" x="270" y="284">MEngSc cum laude · 2023</text>
       <text class="quip" x="270" y="302">taught a computer to watch me glow</text>
     </g>
     <g opacity="0.35">
