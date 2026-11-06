@@ -4,7 +4,7 @@
 
 I work where ecology, software and the people in the field meet. I know how camera-trap surveys are run, what researchers need from their data, and what it takes to ship software that works offline on a field laptop. That domain knowledge drives the engineering: I decide what to build, spot when the data doesn't add up, and see it through to release.
 
-I started out writing R and Python by hand: Shiny modules, data importers and exporters, and converters between survey formats. Today I lead ML inference services and data platforms for wildlife conservation, and I use AI coding agents to ship faster. My free time goes to the side projects below.
+I started out writing R and Python by hand: Shiny modules, data importers and exporters, and converters between survey formats. Today I lead a small development team and the ML inference services and data platforms behind a wildlife-conservation programme, and I use AI coding agents to ship faster. My free time goes to the side projects below.
 
 ### Selected work
 
@@ -13,6 +13,13 @@ I started out writing R and Python by hand: Shiny modules, data importers and ex
 - **Zero-shot search:** I added BioCLIP zero-shot classification, growing the species list from **40 to 763**, plus natural-language image search.
 - **Releases:** **18 versioned releases**, with automated changelogs, commit linting and coverage-gated CI.
 - **A platform in daily use:** R/Shiny, Docker, AWS ECS and Terraform, translated into 5 languages for field teams on three continents.
+
+### Leading the team
+
+- Coordinate a team of in-house and external developers and data staff. I scope and assign the work: 70+ work items across 11 people since 2024.
+- Run a consultative delivery process. The testing and release workflow changes when the team says it isn't working.
+- Advocate for the people I work with, including making the case for a teammate's promotion.
+- Build capability through hands-on AI training sessions, training material and shared security guidance.
 
 ### Projects
 
@@ -44,7 +51,7 @@ I started out writing R and Python by hand: Shiny modules, data importers and ex
 
 ---
 
-Open to roles that combine engineering, data and domain expertise: conservation and scientific software, applied ML, and technical product leadership.
+Open to roles that combine engineering, data and domain expertise: conservation and scientific software, applied ML, and engineering or technical product leadership.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-irshaad--ahmad--parker-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irshaad-ahmad-parker/)
 [![Email](https://img.shields.io/badge/Email-irshaadahmadparker%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:irshaadahmadparker@gmail.com)
