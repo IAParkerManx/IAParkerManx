@@ -1,26 +1,26 @@
-## Hi, I'm Irshaad 👋
+# Irshaad Parker
 
-**Applied ML & Platform Engineer** · South Africa 🇿🇦
+**Applied ML & Platform Engineer** · South Africa
 
 I take computer-vision models out of notebooks and into production, then keep them running for people in the field who rely on them. My day job is building ML inference services and data platforms for wildlife conservation. My free time goes to the side projects below.
 
-### What I've shipped at work
+### Selected work
 
-- 🐆 **Camera-trap AI engine:** I built a detection and species-classification service from scratch. It runs 7 model families on CUDA, Intel and Apple Silicon.
-- ⚡ **Faster inference:** I moved inference to ONNX with an overlapped pipeline, which made the default detector **16.6x faster**.
-- 🔎 **Zero-shot search:** I added BioCLIP zero-shot classification, growing the species list from **40 to 763**, plus natural-language image search.
-- 🚢 **Releases:** **18 versioned releases**, with automated changelogs, commit linting and coverage-gated CI.
-- 🌍 **A platform in daily use:** R/Shiny, Docker, AWS ECS and Terraform, translated into 5 languages for field teams on three continents.
+- **Camera-trap AI engine:** I built a detection and species-classification service from scratch. It runs 7 model families on CUDA, Intel and Apple Silicon.
+- **Faster inference:** I moved inference to ONNX with an overlapped pipeline, which made the default detector **16.6x faster**.
+- **Zero-shot search:** I added BioCLIP zero-shot classification, growing the species list from **40 to 763**, plus natural-language image search.
+- **Releases:** **18 versioned releases**, with automated changelogs, commit linting and coverage-gated CI.
+- **A platform in daily use:** R/Shiny, Docker, AWS ECS and Terraform, translated into 5 languages for field teams on three continents.
 
 ### Projects
 
-| | Project | What it does | Built with |
-| --- | --- | --- | --- |
-| 🔧 | **[mcp-forge](https://github.com/IAParkerManx/mcp-forge)** | Turns an API, a CLI, a website or an Electron/Tauri app into a tested MCP server that AI agents can call. | TypeScript · Node.js · MCP |
-| 📊 | **[claude-usage-widget](https://github.com/IAParkerManx/claude-usage-widget)** | A native macOS menu bar app that shows how much of your Claude plan limits is left. | Swift · SwiftUI |
-| ✅ | **[daily-task-manager](https://github.com/IAParkerManx/daily-task-manager)** | A full-stack task manager with priorities, filters and a stats dashboard. | React · Express · SQLite |
-| 🚗 | **ZERO·21** *(private)* | Anonymous car meets for verified cars only, built privacy-first under POPIA (South Africa's data-protection law). | React Native · Next.js · Convex |
-| 🔍 | **Murder Mystery Generator** *(private)* | An AI app that writes complete murder-mystery games for parties. | Next.js · Prisma · LLMs |
+| Project | What it does | Built with |
+| --- | --- | --- |
+| **[mcp-forge](https://github.com/IAParkerManx/mcp-forge)** | Turns an API, a CLI, a website or an Electron/Tauri app into a tested MCP server that AI agents can call. | TypeScript · Node.js · MCP |
+| **[claude-usage-widget](https://github.com/IAParkerManx/claude-usage-widget)** | A native macOS menu bar app that shows how much of your Claude plan limits is left. | Swift · SwiftUI |
+| **[daily-task-manager](https://github.com/IAParkerManx/daily-task-manager)** | A full-stack task manager with priorities, filters and a stats dashboard. | React · Express · SQLite |
+| **ZERO·21** *(private)* | Anonymous car meets for verified cars only, built privacy-first under POPIA (South Africa's data-protection law). | React Native · Next.js · Convex |
+| **Murder Mystery Generator** *(private)* | An AI app that writes complete murder-mystery games for parties. | Next.js · Prisma · LLMs |
 
 ### Toolbox
 
@@ -42,7 +42,7 @@ I take computer-vision models out of notebooks and into production, then keep th
 
 ---
 
-💼 Open to Applied ML and Platform Engineering roles.
+Open to Applied ML and Platform Engineering roles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-irshaad--ahmad--parker-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irshaad-ahmad-parker/)
 [![Email](https://img.shields.io/badge/Email-irshaadahmadparker%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:irshaadahmadparker@gmail.com)
