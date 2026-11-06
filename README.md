@@ -55,7 +55,7 @@ At Panthera, I lead the development and support of the conservation-technology p
 
 | Qualification | Institution | Years |
 | --- | --- | --- |
-| MEngSc, Biomedical Engineering, *cum laude*. Thesis: [a computer vision pipeline for *Aliivibrio fischeri* bioluminescence inhibition](https://scholar.sun.ac.za/handle/10019.1/129109), a field toxicity test for soil and water | Stellenbosch University | 2022 – 2023 |
+| MEngSc, Biomedical Engineering, *cum laude*. Thesis: [a computer vision pipeline for *Aliivibrio fischeri* bioluminescence inhibition](https://scholar.sun.ac.za/handle/10019.1/129109), a field toxicity test for soil and water | Stellenbosch University | 2022 – 2024 |
 | BSc Honours, Biochemistry | Stellenbosch University | 2021 |
 | BSc | Stellenbosch University | 2017 – 2020 |
 | Summer School, Hydrology and Water Resources Science | University of the Free State | 2022 |
