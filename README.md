@@ -11,6 +11,7 @@ I started out writing R and Python by hand: Shiny modules, data importers and ex
 - **Camera-trap AI engine:** I initiated and lead a detection and species-classification service. It runs 7 model families on CUDA, Intel and Apple Silicon.
 - **Faster inference:** I cut default detection time **16.6x** by switching to a lighter detector with hardware acceleration, and added ONNX inference paths.
 - **Zero-shot search:** I added BioCLIP zero-shot classification, growing the species list from **40 to 763**, plus natural-language image search.
+- **CI/CD across the platform:** **27 GitHub Actions workflows across 6 repos**. They cover Docker and multi-arch image builds, dev and production (AWS ECS) deploys, automated releases and changelogs, commit linting, test suites and translation-coverage gates. I wrote the first pipelines by hand in 2024.
 - **Releases:** **18 versioned releases**, with automated changelogs, commit linting and coverage-gated CI.
 - **A platform in daily use:** R/Shiny, Docker, AWS ECS and Terraform, translated into 5 languages for field teams on three continents.
 
