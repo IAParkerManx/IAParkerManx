@@ -1,8 +1,10 @@
 # Irshaad Parker
 
-**Applied ML & Platform Engineer** · South Africa
+**Interdisciplinary engineer** · conservation technology, applied ML and data platforms · South Africa
 
-I take computer-vision models out of notebooks and into production, then keep them running for people in the field who rely on them. My day job is leading ML inference services and data platforms for wildlife conservation, working with AI coding agents throughout. My free time goes to the side projects below.
+I work where ecology, software and the people in the field meet. I know how camera-trap surveys are run, what researchers need from their data, and what it takes to ship software that works offline on a field laptop. That domain knowledge drives the engineering: I decide what to build, spot when the data doesn't add up, and see it through to release.
+
+I started out writing R and Python by hand: Shiny modules, data importers and exporters, and converters between survey formats. Today I lead ML inference services and data platforms for wildlife conservation, and I use AI coding agents to ship faster. My free time goes to the side projects below.
 
 ### Selected work
 
@@ -38,11 +40,11 @@ I take computer-vision models out of notebooks and into production, then keep th
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
 
-**Focus areas:** computer vision · MLOps and inference speed · cloud platforms · AI-assisted engineering (agents, MCP, LLM apps)
+**Focus areas:** conservation technology · computer vision in production · data platforms and pipelines · AI-assisted engineering
 
 ---
 
-Open to Applied ML and Platform Engineering roles.
+Open to roles that combine engineering, data and domain expertise: conservation and scientific software, applied ML, and technical product leadership.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-irshaad--ahmad--parker-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irshaad-ahmad-parker/)
 [![Email](https://img.shields.io/badge/Email-irshaadahmadparker%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:irshaadahmadparker@gmail.com)
