@@ -29,6 +29,8 @@ My background runs from biochemistry (BSc Hons) to biomedical engineering: an ME
 
 ### Projects
 
+I direct AI to build interfaces: I write the brief, set the system, reject the defaults and check the result. [RacePS](https://github.com/IAParkerManx/raceps#design) shows the approach, from screen-state mock-ups to an accessibility pass.
+
 | Project | What it does | Built with |
 | --- | --- | --- |
 | **[msc-bioluminescence-toolkit](https://github.com/IAParkerManx/msc-bioluminescence-toolkit)** | My MEngSc research code, written by hand in 2022–23. Arduino firmware compares four light sensors, a Raspberry Pi camera images the test plates, and an OpenCV/SSIM pipeline measures how a toxin dims the bacteria over time. | C++ (Arduino) · Python · OpenCV · scikit-image |
@@ -97,7 +99,7 @@ At Panthera, I lead the development and support of the conservation-technology p
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 
-**Focus areas:** conservation technology · computer vision in production · data platforms and pipelines · AI-assisted engineering · embedded hardware
+**Focus areas:** conservation technology · computer vision in production · data platforms and pipelines · AI-assisted engineering · AI-directed interface design · embedded hardware
 
 ---
 
