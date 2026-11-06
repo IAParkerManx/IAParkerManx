@@ -4,7 +4,7 @@
 
 I work where ecology, software and the people in the field meet. I know how camera-trap surveys are run, what researchers need from their data, and what it takes to ship software that works offline on a field laptop. That domain knowledge drives the engineering: I decide what to build, spot when the data doesn't add up, and see it through to release.
 
-My background runs from biochemistry (BSc Hons) to biomedical engineering: an MEngSc, cum laude, from Stellenbosch University, where my thesis built a computer-vision pipeline. I've also worked in environmental engineering and technical support. In software, I started out writing R and Python by hand: Shiny modules, data importers and exporters, and converters between survey formats. Today I lead a small development team and the ML inference services and data platforms behind a wildlife-conservation programme, and I use AI coding agents to ship faster. My free time goes to the side projects below.
+My background runs from biochemistry (BSc Hons) to biomedical engineering: an MEngSc, cum laude, from Stellenbosch University, where my [thesis](https://scholar.sun.ac.za/handle/10019.1/129109) used computer vision to read a glowing bacterium as a field toxicity test for soil and water. I've also worked in environmental engineering and technical support. In software, I started out writing R and Python by hand: Shiny modules, data importers and exporters, and converters between survey formats. Today I lead a small development team and the ML inference services and data platforms behind a wildlife-conservation programme, and I use AI coding agents to ship faster. My free time goes to the side projects below.
 
 <p align="center"><img src="career-path.svg" width="100%" alt="Animated career path: a glowing Aliivibrio bacterium hops from biochemistry to biomedical engineering, environmental engineering, support and conservation tech, where it becomes a leopard's spot."></p>
 
@@ -55,7 +55,7 @@ At Panthera, I lead the development and support of the conservation-technology p
 
 | Qualification | Institution | Years |
 | --- | --- | --- |
-| MEngSc, Biomedical Engineering, *cum laude*. Thesis: a computer-vision pipeline for *Aliivibrio* | Stellenbosch University | 2022 – 2024 |
+| MEngSc, Biomedical Engineering, *cum laude*. Thesis: [a computer vision pipeline for *Aliivibrio fischeri* bioluminescence inhibition](https://scholar.sun.ac.za/handle/10019.1/129109), a field toxicity test for soil and water | Stellenbosch University | 2022 – 2024 |
 | BSc Honours, Biochemistry | Stellenbosch University | 2021 |
 | BSc | Stellenbosch University | 2017 – 2020 |
 | Summer School, Hydrology and Water Resources Science | University of the Free State | 2022 |
