@@ -42,7 +42,7 @@ My background runs from biochemistry (BSc Hons) to biomedical engineering: an ME
 
 Most of my side projects start with a problem in the garage or on the water.
 
-**Cars.** Performance timing, CAN bus retrofits and the car-meet scene.
+**Cars.** I drive a VW R, and my car projects cover performance timing, CAN bus retrofits and the car-meet scene.
 
 - **[raceps](https://github.com/IAParkerManx/raceps):** a phone web app that times performance runs (0–100, rolling 60–100, quarter mile) from GPS and motion sensors, or from a Dragy timer over Web Bluetooth with a decoder for its binary GPS frames. It works offline, calls out splits by voice and has unit tests for its core logic.
 - **[mqb-steering-wheel-can](https://github.com/IAParkerManx/mqb-steering-wheel-can):** firmware that sits on a VW MQB chassis CAN bus and translates button and paddle-shift frames so a retrofitted steering wheel works with the car.
@@ -50,7 +50,7 @@ Most of my side projects start with a problem in the garage or on the water.
 
 **Electronics.** I've been building with Arduino and Raspberry Pi since 2018: light sensors, OLED readouts, camera rigs and CAN bus controllers. The same habit carried into my thesis, where I compared light sensors and converted their readings to lux before writing the vision pipeline.
 
-**Fishing.** **Captain's League** *(private)* is an app for a fishing league: catch logging with photos, leaderboards, weather, marine and solunar conditions, and offline sync for when there's no signal on the water. React Native (Expo) · Supabase.
+**Fishing.** I run a casual fishing league and built **Captain's League** *(private)* to keep score: catch logging with photos, leaderboards, weather, marine and solunar conditions, and offline sync for when there's no signal on the water. React Native (Expo) · Supabase.
 
 ### Resume
 
