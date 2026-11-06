@@ -1,4 +1,4 @@
-# Irshaad Parker
+# Irshaad Ahmad Parker
 
 **Interdisciplinary engineer** · conservation technology, applied ML and data platforms · Cape Town, South Africa
 
