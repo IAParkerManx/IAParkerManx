@@ -18,6 +18,7 @@ I started out writing R and Python by hand: Shiny modules, data importers and ex
 ### Leading the team
 
 - Lead a small development and support team (direct reports, an intern, and contractors from three firms). I scope and assign the work: 70+ work items across 11 people since 2024.
+- Proposed and co-authored our team's working agreement: sprints, two-reviewer code review, constructive conflict resolution ("don't let conflict sit unresolved"), sustainable hours and personal growth plans.
 - Run a consultative delivery process. The testing and release workflow changes when the team says it isn't working.
 - Advocate for the people I work with, including making the case for a teammate's promotion.
 - Build capability through hands-on AI training sessions, training material and shared security guidance.
